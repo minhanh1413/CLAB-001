@@ -1,2 +1,2 @@
-# CLAB-001
+# CLAB
 Dictionary
